@@ -52,7 +52,7 @@ I'm on a journey to further expand my skill set, collaborate on exciting project
             </td>
            <td width="80px" align="center">
             <span><strong>Java</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+            <img height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg">
             </td>
         </tr>
     </tbody>
