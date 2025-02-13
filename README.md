@@ -3,7 +3,7 @@
               I&apos;m Jenn a professional developer.
             </span>
             <span className="block mt-6">
-         I am a dedicated student pursuing a University Technical Degree in Programming and holding a Certified Tech Developer certification. With a strong focus on backend development, I've gained expertise in a diverse set of technologies, spanning web development, database management, and more. My skills encompass HTML, CSS, React, Javascript, Java Spring Boot, APIs, microservices, C, Python, Node.js, software testing, and UX/UI design. I'm passionate about leveraging Design Thinking to solve real-world problems and am well-versed in Agile methodologies, particularly Scrum.
+         I am a dedicated student pursuing a University Technical Degree in Programming and holding a Certified Tech Developer certification. With a strong focus on backend development, I've gained expertise in a diverse set of technologies, spanning web development, database management, and more. My skills encompass HTML, CSS, React, Javascript, Java Spring Boot, microservices, C, Python, and UX/UI design. I'm passionate about leveraging Design Thinking to solve real-world problems and am well-versed in Agile methodologies, particularly Scrum.
 
 I'm on a journey to further expand my skill set, collaborate on exciting projects, and make a positive impact on the world through technology.
             </span>
@@ -18,8 +18,7 @@ I'm on a journey to further expand my skill set, collaborate on exciting project
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
             </td>
             <td width="80px" align="center">
-            <span><strong>Node</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+          n
             </td>
             <td width="80px" align="center">
             <span><strong>HTML</strong></span><br>
